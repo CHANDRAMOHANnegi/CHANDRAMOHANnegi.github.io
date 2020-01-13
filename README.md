@@ -1,7 +1,7 @@
 # CHANDRAMOHANnegi.github.io
 
 
-click here to preview "https://chandramohannegi.github.io/CHANDRAMOHANnegi.github.io/"
+click here to preview "https://CHANDRAMOHANnegi.github.io/"
 
 
 ![Document](https://github.com/CHANDRAMOHANnegi/bootstrap-ui-template/blob/master/images/Screenshot%20(54).png)
